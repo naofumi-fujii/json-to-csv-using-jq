@@ -1,0 +1,5 @@
+[
+  {"col_chr1": "hoge", "col_num": 23, "col_bl1": false},
+  {"col_num": 24, "col_bl1": true, "col_bl2": true, "col_chr2": "nya-n"},
+  {"col_chr1": "hoge", "col_num": 2, "col_bl2": false}
+]
